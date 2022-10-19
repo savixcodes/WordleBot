@@ -1,0 +1,82 @@
+[
+ {
+  "bigram": "th",
+  "freq": 3.882543
+ },
+ {
+  "bigram": "he",
+  "freq": 3.681391
+ },
+ {
+  "bigram": "in",
+  "freq": 2.283899
+ },
+ {
+  "bigram": "er",
+  "freq": 2.178042
+ },
+ {
+  "bigram": "an",
+  "freq": 2.14046
+ },
+ {
+  "bigram": "re",
+  "freq": 1.749394
+ },
+ {
+  "bigram": "nd",
+  "freq": 1.571977
+ },
+ {
+  "bigram": "on",
+  "freq": 1.418244
+ },
+ {
+  "bigram": "en",
+  "freq": 1.383239
+ },
+ {
+  "bigram": "at",
+  "freq": 1.335523
+ },
+ {
+  "bigram": "ou",
+  "freq": 1.285484
+ },
+ {
+  "bigram": "ed",
+  "freq": 1.275779
+ },
+ {
+  "bigram": "ha",
+  "freq": 1.274742
+ },
+ {
+  "bigram": "to",
+  "freq": 1.169655
+ },
+ {
+  "bigram": "or",
+  "freq": 1.151094
+ },
+ {
+  "bigram": "it",
+  "freq": 1.134891
+ },
+ {
+  "bigram": "is",
+  "freq": 1.109877
+ },
+ {
+  "bigram": "hi",
+  "freq": 1.092302
+ },
+ {
+  "bigram": "es",
+  "freq": 1.092301
+ },
+ {
+  "bigram": "ng",
+  "freq": 1.053385
+ }
+]
